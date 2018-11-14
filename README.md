@@ -17,10 +17,10 @@ PRIMARY KEY (`bank_id`)
 ```
 
 # Entegre Bankalar : 
+KuveytTurk  
 Garanti  
 YapıKredi  
 EST(FinansBank,HalkBank,İş Bank,AkBank)  
-KuveytTurk  
 Payu 
 İ-Para  
 # Information
